@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bradley</h1>
 <h3 align="center">I'm from St. Louis Missouri, and I am currenty a Computer Science major at Saint Louis University. I really enjoy learning differnt languages, as well as developing my own code as a hobby and possibly a future career. So far most of my projects have been in either Python or C++. Most of which have been either simple yet popular games or bad usb scripts, that I've made for fun and practice.</h3>
 
-- 🌱 I’m currently learning **Advanced Data Structures, Object Oriented Software Design AI, Principles of Computing Systems**
+- 🌱 I’m currently learning **Advanced Data Structures, Object Oriented Software Design, AI, and Principles of Computing Systems**
 
 - 📫 How to reach me **bradleyjoe123@gmail.com**
 
