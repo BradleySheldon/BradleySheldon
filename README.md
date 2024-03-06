@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bradley</h1>
-<h3 align="center">I'm from St. Louis Missouri, and I am currenty a Computer Science major at Saint Louis University. I really enjoy learning differnt languages, as well as developing my own code as a hobby and possibly a future career. So far most of my projects have been in either Python or C++. Most of which have been either simple yet popular games or bad usb scripts, that I've made for fun and practice.</h3>
+<h3 align="center">I'm from St. Louis Missouri, and I am currenty a Computer Science major at Saint Louis University. I really enjoy learning differnt languages, as well as developing my own code as a hobby and possibly a future career. I do most of my work in a VMware home lab I configured myself, to become more versitile in different OS as well as to manage my own networkk. So far most of my projects have been in either Python or C++. Most of which have been either simple yet popular games or bad usb scripts, that I've made for fun and practice.</h3>
 
-- 🔭 I’m currently working on **creating a ESP8266 based hardware keylogger using arduino.**
+- 🔭 I’m currently working on
+- **Creating a ESP8266 based hardware keylogger using arduino.**
+- **Making different htmls for rouge APs.**
+- **Writing my own ducky script to open a reverse shell.**
 
 - 🌱 I’m currently learning **Advanced Data Structures, Object Oriented Software Design, AI, and Principles of Computing Systems**
 
