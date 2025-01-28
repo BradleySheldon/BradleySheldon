@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Structures, Object Oriented Software Design, AI, and Principles of Computing Systems**
 
-- 📫 How to reach me **bradleyjoe123@gmail.com**
+- 📫 How to reach me **bradleyjoe123@gmail.com** **bradley-michele.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
